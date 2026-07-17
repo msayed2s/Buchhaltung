@@ -1,0 +1,4 @@
+dir/*.exe
+dir/*.docx
+*.exe
+*.docx
